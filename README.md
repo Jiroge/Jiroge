@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 
-Welcome to my Github, My degree is in statistics. I'm searching for fresh challenges as a junior software developer. I'm eager to construct each project with enthusiasm. I work on honing my programming abilities every day. I was always good at finding solutions to problems, therefore I put a lot of work into finding a solution for your organization.
+Welcome to my Github. My degree is in statistics. I'm searching for fresh challenges as a junior software developer. I'm eager to construct each project with enthusiasm. I work on honing my programming abilities every day. I was always good at finding solutions to problems, therefore I put a lot of work into finding a solution for your organization.
+
+
+
 <!--
 **Jiroge/Jiroge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
