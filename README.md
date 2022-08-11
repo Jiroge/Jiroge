@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 
-Welcome to my Github. My degree is in statistics. I'm searching for fresh challenges as a junior software developer. I'm eager to construct each project with enthusiasm. I work on honing my programming abilities every day. I was always good at finding solutions to problems, therefore I put a lot of work into finding a solution for your organization.
-
+Welcome to my Github. My degree is in statistics. I formerly worked in a factory that exported fruit to China. Technology and career path are two of my interests. As a result, I was given the opportunity to study the Generation using the MERN stack (MongoDB, Express, React, Nodejs), and I developed full stack development skills. I was taught how to create a website by professionals in the industry. Online courses are also available for independent learning. Additionally, we do projects during the boot camp. We had agile with a scrum framework working groups for grooming, sprint planning, daily scrum, and sprint retrospective. In addition to learning a lot while attending the Generation, I also developed my hard skills and soft skills, and most importantly, gained a lot more friends in the boot camp.
 
 
 <!--
